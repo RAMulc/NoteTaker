@@ -30,11 +30,11 @@ An application used to write, save, and delete notes. This application uses an e
 
 Below are examples of the start page and the note taker page. 
 
-![](https://github.com/RAMulc/EmployeeSummary/blob/main/demo/Screenshot.png)
+![](https://github.com/RAMulc/NoteTaker/blob/main/images/StartScreen.png)
 
-![](https://github.com/RAMulc/EmployeeSummary/blob/main/demo/Screenshot.png)
+![](https://github.com/RAMulc/NoteTaker/blob/main/images/TakeNote.png)
 
-![](https://github.com/RAMulc/EmployeeSummary/blob/main/demo/Screenshot.png)
+![](https://github.com/RAMulc/NoteTaker/blob/main/images/ANewNote.png)
 
 
 
